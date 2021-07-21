@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+  - 前端小学鸡
+  - 喜欢折腾
+
 <!--
 **weicheng-git/weicheng-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
